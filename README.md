@@ -1,5 +1,3 @@
-<img src="profile.jpg" alt="Yallappa Huchchannavar" width="150" align="right">
-
 ## Hi, I'm Yallappa H
 
 **AI & Data Engineer | 18+ years building enterprise data solutions**
