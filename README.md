@@ -2,7 +2,7 @@
 
 # Hi, I'm Yallappa Huchchannavar
 
-**Security Analytics Leader | Data Engineer | Parent-Developer**
+**Lead AI Enterprise Data Engineer @ McAfee | AI Agent Development | Enterprise Data Platforms & Automation**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yallappa/)
 
@@ -10,11 +10,44 @@
 
 ## About Me
 
-I build data-driven solutions that solve real problems - from enterprise cybersecurity analytics to helping my kids learn and track their progress. I believe in pragmatic engineering: simple solutions that work, clean code that's maintainable, and tools that make a difference.
+With over 18 years of experience in data engineering and AI platform development, I design and deliver enterprise-scale data solutions and autonomous AI systems that transform business operations. I specialize in the fusion of AI, automation, and data engineering to enable enterprise decision-making at scale.
 
 ---
 
-## Featured Projects
+## Awards & Recognition
+
+**Two-time AI Hackathon Winner:**
+
+- **Best Innovation Hack (DET) 2025** - VizAI platform reducing Tableau dashboard creation from hours/days to under 2 minutes with $1.5B+ industry impact potential
+- **Best Hack for Productivity 2024** - Automated AI hiring screener with real-time candidate scoring
+
+---
+
+## Technical Expertise
+
+**AI & ML**: AgentForce, RAG, LLMOps, MCP Server Development, Einstein Vision & Language APIs, OpenAI & Anthropic APIs
+
+**Data Engineering**: ETL, Data Warehousing, Snowflake, Apache Spark, Apache Airflow, Data Cloud, dbt
+
+**Platforms**: Salesforce, Snowflake Cortex AI, Tableau, Informatica, Jenkins CI/CD
+
+**Languages**: Python, PySpark, SQL, Apex, JavaScript
+
+---
+
+## Recent Impact
+
+- Built autonomous agents for structured (Data Cloud + SOQL) and unstructured data, automating Apex generation, testing, and CI/CD
+- Developed enterprise MCP servers enabling AI orchestration across Snowflake, GitHub, Google Drive, and Salesforce
+- Implemented Snowflake Cortex AI for automated metadata enrichment satisfying enterprise audit requirements
+- Optimized DAG dependency architecture saving **700+ hours annually**
+- Reduced access request turnaround from days to hours (**70% efficiency gain**)
+- Eliminated **70% of manual administrative overhead** through automation
+- Presented at **Dreamforce** showcasing applied AI in enterprise contexts
+
+---
+
+## Featured Personal Projects
 
 ### Security & Analytics
 
@@ -23,42 +56,44 @@ I build data-driven solutions that solve real problems - from enterprise cyberse
 | [**cybersec-telemetry-analysis**](https://github.com/yvh1223/cybersec-telemetry-analysis) | Analyze cybersecurity telemetry data for threat detection and security insights |
 | [**security-analyzer**](https://github.com/yvh1223/security-analyzer) | Security analysis tools and utilities |
 | [**antivirus-market-intelligence**](https://github.com/yvh1223/antivirus-market-intelligence) | Market intelligence analysis for antivirus products |
-| [**antivirus-review-analytics**](https://github.com/yvh1223/antivirus-review-analytics) | Analytics platform for antivirus product reviews |
-| [**consumer-security-analysis**](https://github.com/yvh1223/consumer-security-analysis) | Consumer security product analysis and insights |
 
-### Education & Learning Tools
+### Education & Family Projects
 
 | Project | Description |
 |---------|-------------|
-| [**vihaan-swim-tracker**](https://github.com/yvh1223/vihaan-swim-tracker) | Track my son's competitive swim times and progress toward USA Swimming time standards with charts and meet prep guides |
+| [**vihaan-swim-tracker**](https://github.com/yvh1223/vihaan-swim-tracker) | Track my son's competitive swim times and progress toward USA Swimming time standards |
 | [**vihaan-learning-platform**](https://github.com/yvh1223/vihaan-learning-platform) | Interactive learning platform for kids |
-| [**5th-grade-science-curriculum**](https://github.com/yvh1223/5th-grade-science-curriculum) | Comprehensive 5th grade science curriculum and resources |
-| [**Learn-5th-grade-science-staar-prep**](https://github.com/yvh1223/Learn-5th-grade-science-staar-prep) | STAAR test preparation for 5th grade science |
+| [**5th-grade-science-curriculum**](https://github.com/yvh1223/5th-grade-science-curriculum) | Comprehensive 5th grade science curriculum and STAAR prep |
 
 ### Utilities & Tools
 
 | Project | Description |
 |---------|-------------|
 | [**youtube-transcript-processor**](https://github.com/yvh1223/youtube-transcript-processor) | Process and analyze YouTube video transcripts |
-| [**QR_Code**](https://github.com/yvh1223/QR_Code) | QR code generation utilities |
-| [**FreeRice-AutoClick**](https://github.com/yvh1223/FreeRice-AutoClick) | Automation tool for FreeRice charity donations |
 
 ---
 
-## Tech Stack
+## Certifications
 
-**Languages**: Python, JavaScript, SQL
-**Data**: Supabase, PostgreSQL, Pandas, Jupyter
-**Web**: HTML/CSS, Streamlit, GitHub Pages
-**Tools**: Git, Docker, VS Code
+- Salesforce AI Associate
+- Salesforce Data Cloud
+- Salesforce Extreme Productivity
+- Python Quick Start
 
 ---
 
-## Current Focus
+## Career Journey
 
-- Building analytics dashboards for security telemetry
-- Creating educational tools that make learning engaging
-- Tracking my son Vihaan's competitive swimming progress
+| Period | Role | Company |
+|--------|------|---------|
+| 2025 - Present | Lead AI Enterprise Data Engineer | McAfee |
+| 2024 - 2025 | Lead AI Engineer | Salesforce |
+| 2023 - 2024 | Lead Data Engineer @ Tableau | Salesforce |
+| 2021 - 2023 | Senior Member of Technical Staff | Salesforce |
+| 2019 - 2021 | Data Engineer | Salesforce |
+| 2015 - 2019 | Sr. Informatica/IDQ Consultant | Lincoln Financial |
+| 2009 - 2015 | ETL Lead Developer | XL Catlin (via TCS) |
+| 2007 - 2009 | ETL Developer | TCS for MetLife |
 
 ---
 
@@ -69,4 +104,4 @@ I build data-driven solutions that solve real problems - from enterprise cyberse
 
 ---
 
-*"The best code is no code. The second best is simple code that works."*
+*"Enable enterprise decision-making at scale through the fusion of AI, automation, and data engineering excellence."*
