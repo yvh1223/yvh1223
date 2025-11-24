@@ -1,6 +1,6 @@
 <img src="profile.jpg" alt="Yallappa Huchchannavar" width="150" align="right" style="border-radius: 50%; margin-left: 20px;">
 
-# Hi, I'm Yallappa H
+## Hi, I'm Yallappa H
 
 **AI & Data Engineer | 18+ years building enterprise data solutions**
 
