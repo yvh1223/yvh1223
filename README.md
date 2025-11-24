@@ -1,12 +1,12 @@
 <img src="profile.jpg" alt="Yallappa Huchchannavar" width="150" align="right" style="border-radius: 50%; margin-left: 20px;">
 
-# Hi, I'm Yallappa Huchchannavar
+# Hi, I'm Yallappa H
 
 **Lead AI Enterprise Data Engineer @ McAfee | AI Agent Development | Enterprise Data Platforms & Automation**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yallappa/)
 
----
+
 
 ## About Me
 
