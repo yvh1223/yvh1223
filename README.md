@@ -1,11 +1,3 @@
-## Hi, I'm Yallappa H
-
-**AI & Data Engineer | 18+ years building enterprise data solutions**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yallappa/)
-
-
-
 ## What I Do
 
 I build things that make data useful - from enterprise AI agents to tracking my son's swim times. Currently at McAfee working on AI platform development. Previously spent 6+ years at Salesforce building data infrastructure and winning a couple hackathons along the way.
