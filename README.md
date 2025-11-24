@@ -1,4 +1,4 @@
-<img src="profile.jpg" alt="Yallappa Huchchannavar" width="150" align="right" style="border-radius: 50%; margin-left: 20px;">
+<img src="profile.jpg" alt="Yallappa Huchchannavar" width="150" align="right">
 
 ## Hi, I'm Yallappa H
 
